@@ -23,7 +23,7 @@ name                     : "Just Another Site"
 description              : "My personal website"
 url                      : "https://ali-hela.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Ali-Hela/Ali-Hela.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # "/assets/images/icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -98,7 +98,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-7VM5FMQQPP"
     anonymize_ip         : # true, false (default)
 
 
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
