@@ -8,6 +8,7 @@ tags:
 
 It's been about 2–3 years since I stopped relying on many commercial services and started hosting my own stuff at home for free. And you know what? My home self-hosted services are often better than the fancy ones you pay for. Back then, I barely knew Linux and could only figure out how to set up port forwarding. But guess what? That's all you need to start out.
 
+## Baby Steps
 ### My first server
 
 So, being a total newbie, I didn't want to splash out on a fancy server. Plus, as a broke student, I had zero cash to spare. Instead, I scavenged for an old desktop. Luckily, a friend had one lying around, an ancient Dell Desktop with less than 2GBs of RAM and some old Pentium CPU. It was ancient, but hey, it worked!
