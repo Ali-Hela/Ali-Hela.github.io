@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Just Another Site"
+title                    : "Just Another Blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Just Another Site"
+name                     : "Just Another Blog"
 description              : "My personal website"
 url                      : "https://ali-hela.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
